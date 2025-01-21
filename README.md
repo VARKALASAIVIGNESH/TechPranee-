@@ -28,24 +28,10 @@ This API predicts machine downtime using a logistic regression model. The model 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/manufacturing_predictive_model.git
-cd manufacturing_predictive_model
+git clone https://github.com/VARKALASAIVIGNESH/TechPranee.git
+cd TechPranee
 
-## Overview
 
-This API predicts machine downtime using a logistic regression model. The model is trained on a synthetic manufacturing dataset with features such as temperature, run time, and downtime flag. It provides the following functionalities:
-
-- Upload a CSV dataset
-- Train a machine learning model
-- Predict machine downtime based on given features
-
-## Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/manufacturing_predictive_model.git
-cd manufacturing_predictive_model
 ```
 
 ### 2. Set Up the Virtual Environment
